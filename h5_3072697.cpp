@@ -1,12 +1,3 @@
-/*******************************************************
-** Aufgabe Nr.: H5                                    **
-** Nachname: Gomaa                                    **
-** Vorname: Mohamed                                   **
-** Matrikelnummer: 3072697                            **
-** Uni-Email: mohamed.gomaa@stud.uni-due.de           **
-** Studiengang: ISE CE (SWE)                          **
-*******************************************************/
-
 #include<iostream>
 #include<iomanip>
 #include<string>
